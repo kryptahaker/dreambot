@@ -1,0 +1,76 @@
+[
+  {
+    "_id": "Info",
+    "Fish": {
+      "Sum": {
+        "Price": 10,
+        "Description": "Prawdziwy, polski SUM!",
+        "Prestige": 1
+      },
+      "Amur Biały": {
+        "Price": 5,
+        "Description": "Skromny i prosty w smaku. To ryba, która nie robi z siebie wielkiej ryby!",
+        "Prestige": 1
+      },
+      "Karpi Koi": {
+        "Price": 15,
+        "Description": "Karpi Koi to egzotyczna ryba pochodząca z Azji. Ze względu na swoje piękne wzory i kolorowy wygląd, jest ceniona w stawach i ogrodach na całym świecie.",
+        "Prestige": 2
+      },
+      "Pstrąg Tęczowy": {
+        "Price": 20,
+        "Description": "Pstrąg tęczowy to kolorowa ryba słodkowodna, która jest ceniona za swoje piękne ubarwienie i smaczne mięso. Jest popularnym celem wędkarzy.",
+        "Prestige": 2
+      },
+      "Złota rybka": {
+        "Price": 25,
+        "Description": "🥇🥇",
+        "Prestige": 3
+      }
+    },
+    "Shop": {
+      "Żelazna wędka": {
+        "Price": 6000,
+        "Description": "Ulepszona wersja wędki drewnianej",
+        "ID": 1,
+        "Name": "Żelazna wędka",
+        "Prestige": 2
+      },
+      "Złota wędka": {
+        "Price": 30000,
+        "Description": "🥇",
+        "Prestige": 3,
+        "ID": 2,
+        "Name": "Złota wędka"
+      }
+    },
+    "Quests": {
+      "1": {
+        "Name": "Początkujący I",
+        "Description": "Wyłów 20 ryb",
+        "Type": 1,
+        "Prize": 500
+      },
+      "2": {
+        "Name": "Początkujący II",
+        "Description": "Wyłów 50 ryb",
+        "Type": 2,
+        "Prize": 1000
+      },
+      "3": {
+        "Name": "Złoto 🥇",
+        "Description": "Złów złotą rybkę",
+        "Type": 2,
+        "Prize": 300
+      }
+    },
+    "ShopUpgrades": {
+      "Ulepszony kołowrotek": {
+        "Price": 3000,
+        "Description": "Zapewnia większą szansę na lepszą rybę!",
+        "ID": 3,
+        "Name": "Ulepszony kołowrotek"
+      }
+    }
+  }
+]
