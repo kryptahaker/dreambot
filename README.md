@@ -6,3 +6,30 @@ founder bug: butters
 hacker: czubix
 operation provider: 6vz
 resource hacker: binut
+
+
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
+https://discord.gg/startit
